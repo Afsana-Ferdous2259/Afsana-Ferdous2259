@@ -11,7 +11,7 @@
     <p>👯 I’m looking to collaborate on Web Development Projects</p>
     <p>💬 Ask me about HTML, CSS, JavaScript, Tailwind</p>
     <p>📫 How to reach me: <a href="mailto:afsanaema19@gmail.com">afsanaema19@gmail.com</a></p>
-   <p>📄 Know about my experiences <a href="https://github.com/Ecommerce-p771">GitHub</a></p>
+   <p>📄 Know about my experiences <a https://github.com/Afsana-Ferdous2259>href="[https://github.com/Ecommerce-p771](https://github.com/Afsana-Ferdous2259)"</a></p>
     <p>⚡ Fun fact: I love coding!</p>
   </div>
 </section>
@@ -25,10 +25,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
-
-
-
 <h3 align="left" style="background: #ffffff; padding: 10px; border-radius: 8px;">GitHub Stats:</h3>
 <p align="left" style="background: #ffffff; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="https://github-readme-stats.vercel.app/api?username=Afsana-Ferdous&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
+
+
