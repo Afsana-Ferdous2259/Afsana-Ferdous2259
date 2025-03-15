@@ -1,3 +1,6 @@
+[![Follow Me](https://img.shields.io/github/followers/Afsana123?label=Follow&style=social)](https://github.com/Afsana123)
+
+
 <h1 align="center">Hi 👋, I'm Afsana</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" height="420"  width="450" background: transparent; src="https://img95.lovepik.com/photo/40107/8354.gif_wh300.gif"  />
