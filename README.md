@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Afsana</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
+<img align="right" height="420"  width="450" background: transparent; src="https://img95.lovepik.com/photo/40107/8354.gif_wh300.gif"  />
 
 <section style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="flex: 1; text-align: center;">
-<!--     <img src="https://camo.githubusercontent.com/aefba8fea588656a8604b61003108a1ac22992a44d59be5ad4f0913e69c3e7e1/68747470733a2f2f692e67696665722e636f6d2f4a5841302e676966" alt="Afsana Image" style="width: 100px; height: 100px; border-radius: 50%;"/> -->
   </div>
   <div style="flex: 2; text-align: left;">
     <p>🔭 I’m currently working on Her Power Project</p>
@@ -17,15 +17,45 @@
 </section>
 
 <h3 align="left">Connect with me:</h3>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+###
+
+
+###
+
+
+###
 
 
 
+
+###
 
