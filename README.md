@@ -2,8 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Afsana</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
-<img align="right" height="420"  width="450" background: transparent; src="https://img95.lovepik.com/photo/40107/8354.gif_wh300.gif"  />
+<h3 align="center">A passionate web developer from Bangladesh</h3><br>
+<img align="right" height="400"  width="420" background: transparent; src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif"  />
 
 <section style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="flex: 1; text-align: center;">
