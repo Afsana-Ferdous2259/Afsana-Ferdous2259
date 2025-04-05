@@ -9,7 +9,7 @@
   </div>
   <div style="flex: 2; text-align: left;">
     <p>🔭 I’m currently working on Her Power Project</p>
-    <p>🌱 I’m currently learning Frontend, Backend, Full-Stack, UI/UX</p>
+    <p>🌱 I’m currently learning Frontend, UI/UX</p>
     <p>👯 I’m looking to collaborate on Web Development Projects</p>
     <p>💬 Ask me about HTML, CSS, JavaScript, Tailwind, Bootstrap</p>
     <p>📫 How to reach me: <a href="mailto:afsanaema19@gmail.com">afsanaema19@gmail.com</a></p>
